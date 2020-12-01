@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.success {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 26px;
+  color: lightgoldenrodyellow;
+  background-color: olive;
+  border-style: solid;
+  border-radius: 25px;
+  border-color: navy;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 26px;
+  color: yellow;
+  background-color: red;
+  border-style: solid;
+  border-radius: 25px;
+  border-color: tomato;
+  padding: 10px;
+  margin-bottom: 10px;
+}
